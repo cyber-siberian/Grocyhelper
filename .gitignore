@@ -1,0 +1,4 @@
+.vs
+*.csproj*
+Grocyhelper/bin
+Grocyhelper/obj
